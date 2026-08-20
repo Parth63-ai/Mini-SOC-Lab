@@ -1,4 +1,5 @@
 # 🛡️ Mini SOC Lab – Network Reconnaissance Detection
+### Link: https://mini-soc-lab.netlify.app/
 
 ## 📌 Overview
 
